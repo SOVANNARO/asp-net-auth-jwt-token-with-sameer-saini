@@ -1,0 +1,6 @@
+@auth_jwt_token_asp_net_core_web_api_with_sameer_HostAddress = http://localhost:5242
+
+GET {{auth_jwt_token_asp_net_core_web_api_with_sameer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
